@@ -6,4 +6,4 @@ const page = () => {
   )
 }
 
-export default pagefce
+export default page
